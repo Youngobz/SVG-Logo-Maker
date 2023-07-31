@@ -2,22 +2,22 @@
     {
         "type": "input",
         "name": "text",
-        "message": "TEXT: I am prompted for text:"
+        "message": "What text would you like? (No more than 3 character length)"
     },
     {
         "type": "input",
         "name": "text-color",
-        "message": "TEXT COLOR: I am prompted for the text color:"
+        "message": "What should the text colour be?"
     },
     {
         "type": "list",
         "name": "shape",
-        "message": "I am prompted for a shape",
+        "message": "What shape will you like?",
         "choices": ["Circle", "Triangle", "Square"]
     },
     {
         "type": "input",
         "name": "shape-color",
-        "message": "SHAPE COLOR: I am prompted for the shape's color:"
+        "message": "What will the shape's colour be?:"
     }
 ]
