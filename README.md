@@ -4,6 +4,8 @@
 
 This is a Node.js command-line application that allows you to generate an SVG logo. The logo can have a text element and a shape element (circle, square, or triangle) with customizable colors.
 
+https://github.com/Youngobz/SVG-Logo-Maker/assets/133522178/8ac96ea8-2a85-49a4-a5b5-72598c6071c2
+
 ### How to Use
 
 <li>Clone this repository to your local machine.
