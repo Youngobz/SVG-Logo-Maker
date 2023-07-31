@@ -1,0 +1,23 @@
+[
+    {
+        "type": "input",
+        "name": "text",
+        "message": "TEXT: I am prompted for text:"
+    },
+    {
+        "type": "input",
+        "name": "text-color",
+        "message": "TEXT COLOR: I am prompted for the text color:"
+    },
+    {
+        "type": "list",
+        "name": "shape",
+        "message": "I am prompted for a shape",
+        "choices": ["Circle", "Triangle", "Square"]
+    },
+    {
+        "type": "input",
+        "name": "shape-color",
+        "message": "SHAPE COLOR: I am prompted for the shape's color:"
+    }
+]
